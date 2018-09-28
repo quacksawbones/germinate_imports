@@ -1,0 +1,4 @@
+#DON'T load the test data. This can be tweaked later on
+*.xls
+*.xlsx
+*.csv
